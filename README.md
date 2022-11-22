@@ -1,1 +1,1 @@
-# comp572-finalproj
+COMP 572 Final Project UNC
